@@ -1,6 +1,6 @@
 # Hola, soy William 👋
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img align="right" src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="35%" />
 
 Soy estudiante de Ciencias de la Computación, apasionado por escribir código, resolver problemas, automatizar procesos y crear software.
 
@@ -16,3 +16,6 @@ Soy estudiante de Ciencias de la Computación, apasionado por escribir código, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+<p align="center">
+  <img width="35%" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+</p>
